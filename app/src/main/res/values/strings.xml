@@ -1,0 +1,16 @@
+<resources>
+    <string name="app_name">Money management</string>
+    <string name="str_cards">Cards</string>
+    <string name="str_my_expenses">My Expenses</string>
+    <string name="str_add_expenses">Add Expenses</string>
+    <string name="str_add_income">Add Income</string>
+
+    <string name="str_expense">Expense</string>
+
+    <string name="str_income">Income</string>
+    <string name="str_transaction">Transactions</string>
+    <string name="str_your_circles">Your Circles</string>
+    <string name="str_Payments">Payments</string>
+    <string name="navigation_drawer_open">Open navigation drawer</string>
+    <string name="navigation_drawer_close">Close navigation drawer</string>
+</resources>

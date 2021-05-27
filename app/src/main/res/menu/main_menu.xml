@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+    <item
+        android:id="@+id/expenses_frag"
+        android:icon="@drawable/icn_transaction"
+        android:title="@string/str_my_expenses" />
+
+    <item
+        android:id="@+id/card_frag"
+        android:icon="@drawable/icn_card"
+        android:title="@string/str_cards" />
+
+    <item
+        android:id="@+id/add_expense"
+        android:icon="@drawable/icn_transaction"
+        android:title="@string/str_add_expenses" />
+    <item
+        android:id="@+id/add_income"
+        android:icon="@drawable/icn_card"
+        android:title="@string/str_add_income" />
+</menu>
