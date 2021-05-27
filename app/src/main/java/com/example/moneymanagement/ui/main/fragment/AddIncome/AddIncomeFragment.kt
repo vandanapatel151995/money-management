@@ -27,6 +27,9 @@ import kotlin.concurrent.schedule
 class AddIncomeFragment : Fragment() {
 
 
+
+
+
     private lateinit var viewModel: AddIncomeViewModel
     private lateinit var edtIncomeType: EditText
     private lateinit var edtIncomeAmount: EditText
